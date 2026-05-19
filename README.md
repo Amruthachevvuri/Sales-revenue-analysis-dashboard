@@ -5,7 +5,8 @@
 ![Dashboard Preview](dashboard.png)
 
 ## Project Overview
-Interactive Power BI dashboard for analyzing sales and revenue trends.
+This project was developed as part of my internship at Thiranex.  
+The dashboard analyzes sales and revenue data using interactive visualizations and KPI tracking in Power BI.
 
 ## Features
 - KPI Cards
